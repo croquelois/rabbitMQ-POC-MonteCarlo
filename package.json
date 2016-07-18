@@ -1,0 +1,9 @@
+{
+  "name": "rabbitMQ-POC-MonteCarlo",
+  "version": "0.0.1",
+  "private": true,
+  "author": "Matthieu Croquelois",
+  "dependencies": {
+    "amqplib": "^0.4.2"
+  }
+}
